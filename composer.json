@@ -1,0 +1,17 @@
+{
+    "name": "Kent55/ZeroDecryption",
+    "type": "project",
+    "description": "A new upcoming gaming and technology site",
+    "keywords": ["php", "mysql", "tech", "gaming", "mvc", "upcoming"],
+    "homepage": "http://zero-decryption.com",
+    "license": "QPL",
+    "require-dev": {
+        "php": ">=5.5.0",
+        "phpmailer/phpmailer": "~5.2",
+        "gregwar/captcha": "~1.0.12",
+        "phpunit/phpunit": "~4.5"
+    },
+    "autoload": {
+        "psr-4": { "": ["application/core/", "application/model/"] }
+    }
+}
