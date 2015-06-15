@@ -4,6 +4,8 @@
 
 Welcome to the TranxCraft Web repository. This is the panel that allows you to get involved even when you're not playing!
 
+**This is just the core code, the design of the panel, as it currently stands, is closed source.**
+
 
 ----------
 
