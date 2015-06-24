@@ -39,4 +39,8 @@ Other guidelines we ask that you follow are:
 
 - Matt Kent
 - Dan Jones
+<<<<<<< HEAD
 - Logan
+=======
+- Logan
+>>>>>>> 805d151aa29884e5dc5493e8f6fa202d542eee8c
